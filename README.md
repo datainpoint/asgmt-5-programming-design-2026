@@ -1,6 +1,6 @@
-# asgmt-5-programming-design-2025
+# asgmt-5-programming-design-2026
 
-> Assignment 5: Programming Design 2025.
+> Assignment 5: Programming Design 2026.
 
 ## 01. Define a class `SquareSqrtArgs` which instantiates objects with two methods `square_args()` and `sqrt_args()` that take flexible integers and returns their squared and square-root values in a `list`.
 
